@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application SectionElement</Name>
+    <Assembly>SectionElement.dll</Assembly>
+    <FullClassName>SectionElement.App</FullClassName>
+    <ClientId>873703a2-b511-3abf-889b-14b3ca7b4e8c</ClientId>
+    <VendorId>Innovating Futures Ltd.</VendorId>
+    <VendorDescription>Mike Turpin - Innovating Futures Ltd.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
